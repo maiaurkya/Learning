@@ -1,8 +1,0 @@
-<html>
-	<head>
-		<title>My Page</title>
-	</head>
-	<body>
-		<p>Hi Every one !</p>
-	</body>
-</html>
